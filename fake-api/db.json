@@ -1,0 +1,28 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "text": "Fazer Coisas",
+      "done": true
+
+    },
+    {
+      "id": 1,
+      "text": "Fazer Coisas1",
+      "done": false
+
+    },
+    {
+      "id": 1,
+      "text": "Fazer Coisas2",
+      "done": true
+
+    },
+    {
+      "id": 1,
+      "text": "Fazer Coisas3",
+      "done": false
+
+    }
+  ]
+}
